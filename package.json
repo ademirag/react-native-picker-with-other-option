@@ -1,0 +1,26 @@
+{
+  "name": "react-native-picker-with-other-option",
+  "version": "1.0.0",
+  "description": "Picker into which can be added some options which when selected a text input appears to prompt the value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ademirag/react-native-picker-with-other-option.git"
+  },
+  "keywords": [
+    "extended",
+    "picker",
+    "picker",
+    "other",
+    "option"
+  ],
+  "author": "Asım Demirağ <asimdemirag@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ademirag/react-native-picker-with-other-option/issues"
+  },
+  "homepage": "https://github.com/ademirag/react-native-picker-with-other-option#readme"
+}
